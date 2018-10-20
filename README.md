@@ -1,3 +1,31 @@
+<p align="center">
+<img src ="https://github.com/saraivaufc/mapbiomas/blob/master/docs/images/logo.svg" />
+</p>
+
+<p align="justify">
+O Projeto MapBiomas é uma iniciativa que envolve uma rede colaborativa de especialistas em diversos temas, atuantes nos biomas brasileiros, com o objetivo principal de elaborar mapas anuais de cobertura vegetal e uso do solo para todo o Brasil. O propósito original de tais mapas é preencher lacunas de informação sobre a dinâmica da cobertura do solo e reduzir incertezas das estimativas de emissões de gases de efeito estufa associadas a esse processo, mas as aplicações certamente serão muito mais amplas.
+</p>
+<p align="justify">
+A iniciativa MapBiomas conta com participação de instituições públicas, privadas e organizações não governamentais (ONGs), com apoio de recursos internacionais para viabilizar o desenvolvimento das atividades. A proposta está baseada na utilização de processamento em nuvem, a partir da plataforma Google Earth Engine, para selecionar, processar e efetuar a classificação digital de imagens de satélite. 
+<p>
+
+<div>
+  <img src ="https://github.com/saraivaufc/mapbiomas/blob/master/docs/images/brasil.jpg" />
+</div>
+
+<div align="justify">
+  <img  src="https://github.com/saraivaufc/mapbiomas/blob/master/docs/images/amazonia.jpg" width="33%" />
+  <img src ="https://github.com/saraivaufc/mapbiomas/blob/master/docs/images/cerrado-a.jpg" width="33%" />
+  <img src ="https://github.com/saraivaufc/mapbiomas/blob/master/docs/images/mata-atlantica.jpg" width="33%" />
+</div>
+<div>
+  <img src="https://github.com/saraivaufc/mapbiomas/blob/master/docs/images/pampa.jpg" width="33%" />
+  <img src ="https://github.com/saraivaufc/mapbiomas/blob/master/docs/images/pantanal.jpg" width="33%" />
+  <img src ="https://github.com/saraivaufc/mapbiomas/blob/master/docs/images/caatinga.jpg" width="33%" />
+<//div>
+
+# Instructions
+
 Install Google Cloud SDK
 
 https://cloud.google.com/sdk/docs/#deb
